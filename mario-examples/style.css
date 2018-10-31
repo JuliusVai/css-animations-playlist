@@ -52,6 +52,7 @@ body {
   animation-duration: 4s;
   animation-fill-mode: both;
   animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
 
 .luigi {
